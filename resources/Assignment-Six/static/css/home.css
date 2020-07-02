@@ -1,0 +1,11 @@
+/* body {
+    background: url('../images/cool-background.png') no-repeat center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+  } */
+#logout{
+  background-color: inherit;
+  border-width: 0px;
+}
